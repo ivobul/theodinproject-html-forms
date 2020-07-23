@@ -112,7 +112,7 @@ button {
 }
 
 a {
-color: #0077C5;
+  color: #0077C5;
 }
 
 /* Navigation */
@@ -222,7 +222,7 @@ footer {
 
 footer div {
   margin: 0 auto;
-  width: 70%; 
+  width: 50%; 
 }
 
 footer a {
