@@ -99,6 +99,11 @@ body {
   vertical-align: -10%;
 }
 
+input,
+button {
+  outline: currentcolor;
+}
+
 input { 
   padding: 7px 0;
   width: 100%; 
