@@ -105,7 +105,7 @@ button {
 }
 
 input { 
-  padding: 7px 0;
+  padding: 10px 0;
   width: 100%; 
 }
 
@@ -195,7 +195,7 @@ form {
 
 .form-btn .signup-btn {
   border: 1px solid transparent;
-  padding: 10px 0;
+  padding: 14px 0;
   width: 100%;
 }
 
