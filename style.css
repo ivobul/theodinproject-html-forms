@@ -36,19 +36,15 @@ html {
   box-sizing: inherit;
 }
 
-/* Min height */
-html {
-  height: 100%;
-}
-
+/* Sizing - Height */
 body {
-  min-height: 100%;
+  min-height: 100vh;
 }
 
 /* Typography */
 body {
   font-size: 1rem;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 * {
@@ -70,12 +66,12 @@ ul {
 
 img,
 video {
-  display: block;
   max-width: 100%;
 }
 
 img {
   border-style: none;
+  display: block;
 }
 
 a {
@@ -97,11 +93,6 @@ body {
   font-size: .9rem;
   padding-right: 3px;
   vertical-align: -10%;
-}
-
-input,
-button {
-  outline: currentcolor;
 }
 
 input { 
@@ -207,7 +198,6 @@ form {
   font-size: .8rem;
   padding: 40px 10px 8px;
   text-align: center;
- 
 }
 
 .form-footer {
@@ -241,7 +231,7 @@ footer a:hover {
   text-decoration: underline;
 }
 
-@media only screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   nav { 
     display: none; 
   }
