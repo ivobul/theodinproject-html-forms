@@ -53,11 +53,6 @@ body {
   line-height: inherit;
 }
 
-a,
-a:visited {
-  color: inherit;
-}
-
 /* Resetting specific element styles */
 ol,
 ul {
@@ -182,6 +177,10 @@ form {
 .form-inputs label {
   font-size: .9rem;
   padding-bottom: 10px;
+}
+
+.form-inputs input {
+  padding-left: 5px;
 }
 
 .form-btn .signup-btn {
