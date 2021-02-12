@@ -1,8 +1,10 @@
-## The Odin Project - HTML and CSS
+# The Odin Project - HTML and CSS
 
-### Project: HTML Forms
+## Project: HTML Forms
 
 Rebuild the form used by Mint.com for signing up new users. 
+
+![Preview](preview.png)
 
 #### Contributing
 
